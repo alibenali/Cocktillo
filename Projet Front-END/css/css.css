@@ -1,0 +1,104 @@
+/*
+
+Theme Name : Cocktillo
+Theme Coder : Gikou kikou
+
+PSD Designer:
+FirstColor: #08526d
+SecondColor: #ec1c23
+
+*/
+
+
+
+/*  actifs  */
+.navbar-light .navbar-brand{
+	padding: 7px;
+	color: #d2d2d2;
+	min-width: 99px;
+	background-color: #024871;
+	text-align: center;
+	text-decoration-color: #000000;
+    width: 20%;
+	color: #d2d2d2;
+    border: 1px solid #a9a6a6;
+    background-color: #024871;
+}
+/*  actifs  hover */
+
+.navbar-light .navbar-brand:hover{	
+	background-color: #1d5e7d;
+
+}
+
+
+.bg-light{
+	background-color: #3fbcef !important;
+}
+
+
+img#navbarDropdownMenuLink{
+	background-color: #00709e;
+	margin-left: 5px;
+	border-radius: 10px;
+}
+
+
+
+
+
+.dropdown-menu{
+	left: -138px;
+}
+
+
+#navbarDropdownMenuLink:hover{
+	background-color: #dc3545;
+}
+
+
+.dropdown-divider{
+border-top: 1px solid #b3c1d0;
+}
+
+
+a.itsabrand{
+    padding: 12px;
+    text-decoration: none;
+    color: #d2d2d2;
+    border: 1px solid #a9a6a6;
+    background-color: #024871;
+    top: 15px;
+}
+
+a.itsabrand:hover{
+	background-color: #1d5e7d;
+}
+
+
+.navbar-expand .navbar-collapse {
+	margin-top: 0px;
+}
+
+@media (max-width: 991px){
+	.navbar-expand .navbar-collapse{
+
+	}
+}
+
+
+
+div#godgod {
+    color: #ff000000;
+    height: 0px;
+}
+
+
+
+a#godgod2{
+	padding: 7px;
+    background-color: #93999e;
+    color: #1b1a1a;
+    text-decoration: none;
+    border: 1px solid white;
+}
